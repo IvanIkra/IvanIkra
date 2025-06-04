@@ -5,10 +5,14 @@ I'm a Python developer focused on building Telegram bots using the [aiogram](htt
 ## 🧰 Tech Stack
 
 - 🐍 Python
+- 💻 C++ (basic level)
+- 🌐 Go (learning)
 - 🤖 aiogram
 - 📂 SQLite
 - ⚙️ Git & GitHub
-- 🐳 Docker (learning)
+-	🐳 Docker (learning)
+-	🔧 Business Informatics (interested, considering studies)
+-	🖥️ 3D Printing 
 
 ## 🚧 Currently Working On
 
